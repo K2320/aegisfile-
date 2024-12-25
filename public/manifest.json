@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Aegisfile",
+  "name": "Aegisfile virus detector",
   "icons": [
     {
       "src": "favicon.ico",

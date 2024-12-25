@@ -3,7 +3,7 @@ const express = require('express');
 const multer = require('multer');
 const path = require('path');
 const fs = require('fs');
-const { scanFile, getScanResult } = require('./virusTotalService');
+const { scanFile, getScanResult } = require('./VTservice');
 const cors = require('cors');
 
 const app = express();
